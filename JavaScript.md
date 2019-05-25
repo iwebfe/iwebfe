@@ -1,0 +1,3 @@
+[《JavaScript深入之call和apply的模拟实现》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045809&idx=1&sn=e886ec7a13e567e88be7ebcfef9cd6e5&chksm=87cbe4a1b0bc6db712cbb122ff2f5acc37bb07a61e41187e5ebce1b90d06cbd8482d1d9b4797&token=1251162134&lang=zh_CN#rd)
+
+[《JavaScript:从此不再怕闭包》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045788&idx=1&sn=c10bd057638cb596be6c69923e5f6505&chksm=87cbe48cb0bc6d9a12c6a774589c2fde7ac515b6e4ae0a2c05aaff642294320419992ecff5f1&token=1251162134&lang=zh_CN#rd)
