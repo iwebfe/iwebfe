@@ -6,6 +6,8 @@
 
 ![](https://img.alicdn.com/tfs/TB1JpCeXR1D3KVjSZFyXXbuFpXa-344-344.jpg)
 
+[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
+
 [JavaScript基础](./JavaScript.md)
 
 [Vue.js](./Vue.md)
