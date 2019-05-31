@@ -8,7 +8,7 @@
 
 [阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
-[JavaScript基础](./JavaScript.md)
+[JavaScript](./JavaScript.md)
 
 [Vue.js](./Vue.md)
 

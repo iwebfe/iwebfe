@@ -1,3 +1,7 @@
+[《细谈 vue 核心 - slot 篇》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045822&idx=1&sn=0958039b4aa548dae2e5a5cdc5132a7c&chksm=87cbe4aeb0bc6db8ecf9406de4f0f517d26456c7cde9e7c83324ea09f3f3443ea1eeb96ffb38&token=1261701428&lang=zh_CN#rd)
+
+[《细谈 vue 核心- vdom 篇》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045814&idx=1&sn=ee7f0b96f6c3946937ed6729c6636fe2&chksm=87cbe4a6b0bc6db0cae258cc5b30e9ce2f6ecd2eecb517e8a31a3e7c98ffa5bd738a26f2bece&token=1261701428&lang=zh_CN#rd)
+
 [《聊聊Vue.js组件间通信的几种姿势》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045688&idx=1&sn=a106de35b31f7ae2d306254b849feba1&chksm=87cbe428b0bc6d3e2ef7e7d1ff10d0588b5ec66bf40a7b85ff33be2b624d537ac4cc8ddf3265&token=1251162134&lang=zh_CN#rd)
 
 [《从template到DOM(Vue.js源码角度看内部运行机制)》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045685&idx=1&sn=cb3bb82ddb9feff782cb44f5593188c4&chksm=87cbe425b0bc6d33e695e00355c9aec3ab6cc7a15fc49ab343c36d89ca55cab68663f6eb6950&token=1251162134&lang=zh_CN#rd)
