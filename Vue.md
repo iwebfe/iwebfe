@@ -1,3 +1,7 @@
+[《揭秘组件库一二事（一）》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045869&idx=1&sn=74a39da42733a931c193fa66b42f99c2&chksm=87cbe4fdb0bc6deb60680cce487fbe8acd8c1d0d71dd6b76199d582aadd1b14c8d8f2695ad2d&token=2017406240&lang=zh_CN#rd)
+
+[《揭秘组件库一二事（二）》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045871&idx=1&sn=c8052565da8a0a9664faa48e0a1b398d&chksm=87cbe4ffb0bc6de9f1fc3b3ef2b522318d96cedc5c9b12f8880a8dbf4a8e95cefd3afc3077c1&token=2017406240&lang=zh_CN#rd)
+
 [《细谈 vue 核心 - slot 篇》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045822&idx=1&sn=0958039b4aa548dae2e5a5cdc5132a7c&chksm=87cbe4aeb0bc6db8ecf9406de4f0f517d26456c7cde9e7c83324ea09f3f3443ea1eeb96ffb38&token=1261701428&lang=zh_CN#rd)
 
 [《细谈 vue 核心- vdom 篇》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045814&idx=1&sn=ee7f0b96f6c3946937ed6729c6636fe2&chksm=87cbe4a6b0bc6db0cae258cc5b30e9ce2f6ecd2eecb517e8a31a3e7c98ffa5bd738a26f2bece&token=1261701428&lang=zh_CN#rd)
