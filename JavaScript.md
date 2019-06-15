@@ -1,5 +1,4 @@
-[《一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧
-》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045858&idx=1&sn=0e09ac8ab8393c432bd32cfcd3a5abc0&chksm=87cbe4f2b0bc6de479c95517ca5e049db1806cadedd1586ebd591615b8b86c2f4e657787fe1c&token=2017406240&lang=zh_CN#rd)
+[《一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045858&idx=1&sn=0e09ac8ab8393c432bd32cfcd3a5abc0&chksm=87cbe4f2b0bc6de479c95517ca5e049db1806cadedd1586ebd591615b8b86c2f4e657787fe1c&token=2017406240&lang=zh_CN#rd)
 
 [《合格前端第十二弹-TypeScript + 大型项目实战》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045820&idx=1&sn=cf5f82ea45654ae7845fce44928e65b0&chksm=87cbe4acb0bc6dba8696aac4926dcbbc5a910d45c9a69903d58ccef12dfbdcdf7b3f22929a4e&token=1261701428&lang=zh_CN#rd)
 

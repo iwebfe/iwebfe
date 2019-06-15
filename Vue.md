@@ -1,3 +1,7 @@
+[《从vue源码看观察者模式》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045907&idx=1&sn=82dba5f85e86ff8b8947b739f8fa40d8&chksm=87cbe703b0bc6e15b74c69fa9ce8593153bf6592509c1523a513e721a747d6ddce742cc8e0e2&token=1444323303&lang=zh_CN#rd)
+
+[《初探 Nuxt.js 秘密花园》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045905&idx=1&sn=c134e54cf1448b1922f0f1599d8e362c&chksm=87cbe701b0bc6e176fcc71ac9798e2a79ea1012e5104c2c2c19829947955f7552e7c94c7ba28&token=1444323303&lang=zh_CN#rd)
+
 [《揭秘组件库一二事（一）》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045869&idx=1&sn=74a39da42733a931c193fa66b42f99c2&chksm=87cbe4fdb0bc6deb60680cce487fbe8acd8c1d0d71dd6b76199d582aadd1b14c8d8f2695ad2d&token=2017406240&lang=zh_CN#rd)
 
 [《揭秘组件库一二事（二）》](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451045871&idx=1&sn=c8052565da8a0a9664faa48e0a1b398d&chksm=87cbe4ffb0bc6de9f1fc3b3ef2b522318d96cedc5c9b12f8880a8dbf4a8e95cefd3afc3077c1&token=2017406240&lang=zh_CN#rd)
